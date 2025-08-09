@@ -5,7 +5,7 @@ Crash Course on python
         Video: What is programming?
             Syntax: The rules for how a sentence can be made
             Semantics: the actual meaning of statements
-            Automation: The process of replacing a manual step with one that happens automatically
+            Automation: The process of replacing a manual step with one that happens automatically 
     Module 2 Notes:
 
     Module 3 Notes:
