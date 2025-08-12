@@ -6,7 +6,7 @@ Crash Course on python
             Syntax: The rules for how a sentence can be made
             Semantics: the actual meaning of statements
             Automation: The process of replacing a manual step with one that happens automatically.
-
+            Python interpreter is a program that reads the set of code and translates it into instructions that the computer has to folllow
             
     Module 2 Notes:
 

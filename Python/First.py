@@ -1,2 +1,3 @@
-print("This is my first python test")
-
+friends = [ 'Jesse', 'Alex', 'Mario' ]
+for friend in friends:
+    print ("Hi " + friend)
